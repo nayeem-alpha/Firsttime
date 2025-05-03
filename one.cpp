@@ -2,8 +2,9 @@
 using namespace std;
 int main()
 {
-    for(float n=0;n<=9;n++)
-    {
-        cout<<n;
-    }
+   char name;
+   for(name='a';name<='z';name++)
+   {
+    cout<<name<<" ";
+   }
 }
