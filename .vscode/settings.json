@@ -1,4 +1,4 @@
 {
-    "git.alwaysShowStagedChangesResourceGroup": false,
-    "git.allowNoVerifyCommit": false
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.allowNoVerifyCommit": true
 }
